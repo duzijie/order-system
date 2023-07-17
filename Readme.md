@@ -1,6 +1,6 @@
 # 多商户入驻线下门店点餐平台
 
-<font color="red">免责声明：本点餐平台借用益禾堂饮料作为图片展示，若侵权请联系微信号 **java_developer_1** 删除</font>
+<font color="red">免责声明：本点餐平台借用益禾堂饮料仅作为图片演示系统功能，若侵权请联系微信号 **java_developer_1** 删除</font>
 
 ## 超级管理员端
 
@@ -26,5 +26,7 @@
 ![](./img/user/05.jpg)
 
 
-
-需要源码者或其它合作者请联系微信号：<font color="red">**java_developer_1**</font>
+源码+数据库文件价格：￥199
+源码+数据库+部署价格：￥299
+源码+数据库+部署+项目答疑价格：￥329
+需要源请联系微信号：<font color="red">**java_developer_1**</font>
