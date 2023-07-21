@@ -43,11 +43,7 @@
 ![](./img/user/04.jpg)
 ![](./img/user/05.jpg)
 
-源码+数据库文件价格：￥199
-
-源码+数据库+部署价格：￥299
-
-源码+数据库+部署+项目答疑价格：￥329
+如果你有更好的想法，欢迎联系我的个人微信：
 
 <img src="./img/199.jpg" style="zoom:27%;" /> <img src="./img/299.jpg" style="zoom:27%;" /> <img src="./img/329.jpg" style="zoom:27%;" />
 
