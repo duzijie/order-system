@@ -43,9 +43,7 @@
 ![](./img/user/04.jpg)
 ![](./img/user/05.jpg)
 
-如果你有更好的想法，欢迎联系我的个人微信：
-
-<img src="./img/199.jpg" style="zoom:27%;" /> <img src="./img/299.jpg" style="zoom:27%;" /> <img src="./img/329.jpg" style="zoom:27%;" />
+如果你有更好的想法，欢迎联系我的个人微信： **java_developer_1**
 
 
 
