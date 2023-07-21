@@ -45,8 +45,4 @@
 
 如果你有更好的想法，欢迎联系我的个人微信： **java_developer_1**
 
-
-
-请联系微信号：<font color="red">**java_developer_1**</font>
-
 <img src="./img/wechat.png" style="zoom:50%;" />
